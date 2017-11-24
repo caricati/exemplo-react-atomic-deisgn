@@ -3,7 +3,7 @@
 Código utilizado no vídeo tutorial realacionado ao assunto.
 
 * [Vídeo Tutorial](https://youtu.be/XGPRyL7TXsk)
-* [Artigo sobre Atomic Deisng](https://blog.novatics.com.br/reactjs-e-atomic-design-na-pr%C3%A1tica-5a6e23b8b25)
+* [Artigo sobre Atomic Design](https://blog.novatics.com.br/reactjs-e-atomic-design-na-pr%C3%A1tica-5a6e23b8b25)
 
 ## Instalação e execução
 
